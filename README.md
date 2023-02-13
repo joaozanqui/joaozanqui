@@ -1,7 +1,7 @@
 ## 
 - João Pedro Zanqui
 - Ciência da Computação - UNESP Bauru
-- Pederneiras - SP
+- Bauru - SP
 ##
 <div align="center">
   <a href="https://github.com/joaozanqui">
